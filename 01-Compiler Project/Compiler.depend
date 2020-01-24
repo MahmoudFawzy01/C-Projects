@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1578734031 source:e:\codes\c\hamdy\compiler\brac_checking.c
+	"Brac_Checking.h"
+	<stdint.h>
+
+1578732488 e:\codes\c\hamdy\compiler\brac_checking.h
+	"file_manger.h"
+
+1578730359 e:\codes\c\hamdy\compiler\file_manger.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1578733262 source:e:\codes\c\hamdy\compiler\file_manger.c
+	"file_manger.h"
+
+1578734008 source:e:\codes\c\hamdy\compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"file_manger.h"
+	"Brac_Checking.h"
+
